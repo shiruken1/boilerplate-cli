@@ -1,7 +1,7 @@
-Boilerplate cli
+ES6 JSM
 ===
 
-> A simple boilerplate to running node cli apps with ES6.
+> An attempt at converting the JSM library to ES6
 
 Install
 ---
@@ -21,5 +21,3 @@ License
 ---
 
 MIT
-
-**Free Software, Hell Yeah!**

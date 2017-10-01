@@ -1,7 +1,8 @@
 {
-  "name": "boilerplate-cli",
+  "name": "JSM_ES6",
   "scripts": {
-    "start": "./node_modules/.bin/babel-node src/myscript.js"
+    "start": "./node_modules/.bin/babel-node src/app.js",
+    "test": "mocha --compilers js:babel-core/register"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
